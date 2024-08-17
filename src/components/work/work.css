@@ -1,0 +1,68 @@
+.work {
+    background: #f7ede8;
+    padding-block: 3rem;
+    padding-inline: 3rem;
+}
+.work-container { 
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    text-align: start;
+    padding-block: 8rem;
+    color: #391400;
+
+}
+
+.work-card > h5 {    
+color: #EF6D58;
+margin-bottom: 3rem;
+font-size: 16px;
+    font-weight: 400;
+}
+
+.work-card > p {
+    color: #391400;
+    opacity: 64%;
+    margin-top: -1rem;
+    margin-left: -0.1rem;
+    font-size: small;
+}
+
+.work-card > h3 {
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: -1rem;
+}
+
+
+.work-cards {
+    display: flex;
+    /* justify-content: space-around; */
+    text-align: start;
+    align-items: center;
+    margin-block: -2rem;
+    /* border: 1px solid red; */
+    /* margin-block: 4rem; */
+}
+
+.work-cards-1 >h1 {
+    font-size: 72px;
+    font-weight: 800;
+    margin-bottom:1rem;
+    /* text-align: start; */
+}
+
+.work-cards-2 > h4 {
+    text-align: start;
+    margin-bottom: -10rem;
+    padding-left: 3rem;
+    color: #391400; 
+    /* border: 1px solid red; */
+    /* opacity: 64%; */
+}
+
+.work-border {
+    border-bottom: 1px solid #F3D1BF;
+    margin-top: 3rem;
+    opacity: 60%;
+}

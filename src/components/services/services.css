@@ -1,0 +1,55 @@
+.service {
+    background: #f7ede8;
+    padding-block: 3rem;
+    padding-inline: 3rem;
+}
+.service-mid {
+    display: flex;
+    margin-top: 0.5rem;
+    /* justify-content: space-between; */
+    
+
+}
+
+.service-mid > p {
+    text-align: start;
+    font-size: 16px;
+    margin-top: -0.1rem;
+    margin-left: 1rem;
+    color: #391400; 
+    opacity: 64%;
+}
+
+.service-container {
+    display: flex;
+    justify-content: space-around;
+    
+   /* padding-inline: 3rem;
+   padding-block: 3rem; */
+}
+.service-site {
+    text-align: start;
+    justify-content: center;
+}
+.service-site > h2 {
+    font-size: 56px;
+    font-weight: 800;
+    color: #391400;
+}
+
+.service-site > p {
+    color: #391400; 
+    font-size: 20px;
+    margin-top: -2rem;
+    font-weight: 400;
+    /* text-align: start; */
+    margin-left: -0.5rem;
+}
+
+.service-site > h5 {
+    color: #EF6D58;
+    margin-bottom: -1rem;
+    font-size: 16px;
+    font-weight: 400;
+
+}
